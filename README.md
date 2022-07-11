@@ -1,5 +1,5 @@
 
-## Angular Universal In Depth Course
+## Angular Universal In Depth
 
 This repository is updated to Angular v14.
 
